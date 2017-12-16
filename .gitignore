@@ -1,0 +1,8 @@
+# ipython checkpoints
+.ipynb_checkpoints
+
+# Code editor settings
+.vscode
+
+# OS generated files
+.DS_Store
