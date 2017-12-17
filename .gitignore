@@ -1,6 +1,9 @@
 # ipython checkpoints
 .ipynb_checkpoints
 
+# Results of the classifier on test data
+test-results
+
 # Code editor settings
 .vscode
 
